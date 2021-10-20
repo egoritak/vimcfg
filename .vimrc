@@ -13,8 +13,8 @@ filetype plugin indent on
 colorscheme molokai
 
 Plugin 'fatih/vim-go'
-Plugin 'scrooloose/nerdtree'
-autocmd vimenter * NERDTree "
+"Plugin 'scrooloose/nerdtree'
+"autocmd vimenter * NERDTree "
 
 set number " показывать номера строк в редакторе
 set tabstop=4 " ширина табуляции
